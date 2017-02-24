@@ -1,4 +1,4 @@
-Cyber/Internet Cafe Management Software  
+#Cyber/Internet Cafe Management Software (Work in Progress) 
 
 Internet Cafes use external softwares to manage allotment of systems, accounting and various other purposes. The specifications of a general Internet cafe are as follows: There will be availability of different kind of systems in the cafe: 
 
