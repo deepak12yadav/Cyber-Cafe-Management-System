@@ -1,0 +1,23 @@
+***************************************HELP DOCUMENT ******************************************
+
+Ques:How to compile?
+Ans:
+gcc -w -lpthread main.c
+
+Ques:What is types?
+Ans:
+We have 6 types of machines so for easy input we have given each of them types.User will tell which machine he wants to use.But because owner is feeding input in the machine ,he will input the corresponding type .
+NOTE:In the beggining software ask you to tell which machines do you have so if you don't have certain type of machine and still you try to feed that type ,it will misbehave.
+
+*********Type Map**********
+
+Type 1 : Browsing Systems 
+Type 2 : Gaming Systems 
+Type 3 : Academics purpose Systems 
+Type 4 : Plain Printer 
+Type 5 : Colour Printer 
+Type 6 : Simple Xerox Machine 
+
+Ques:What is interactive_session.txt?
+Ans:
+See pop up cannot come in c due to only onw output pane .I cannot print the output practically on the output pane as systm may misbehave due to clash in different threads .Therefore i have made a txt file in which the messages regarding session end will be written.
